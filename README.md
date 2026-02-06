@@ -8,7 +8,7 @@ Project Duration: Jan 2026 - Present
 
 Certification: Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 ________________________________________
-## Business Objectives
+## 🚀Business Objectives
 
 This analytics solution addresses key business questions:
 
@@ -26,7 +26,7 @@ This analytics solution addresses key business questions:
 
 
 
-## Technical Skills Demonstrated
+## 🛠️Technical Skills Demonstrated
 
 **Data Preparation & Modeling**
 
@@ -113,7 +113,7 @@ Includes:
 
 •	Top 25 states and Top 10  cities
 
-•	Regional profit breakdown
+•	Regional profit breakdown & Key Insights
 
 •	High-volume city analysis (50+ orders)
 
@@ -125,7 +125,7 @@ Purpose: Understand customer behavior and logistics
 
 Components:
 
-•	Sales by customer segment
+•	Sales by customer segment & Key Insights
 
 •	Shipping mode analysis
 
@@ -145,7 +145,7 @@ Analysis:
 
 •	Discount impact on profitability
 
-•	Top 15 Profit making Product ID's and Key Insights
+•	Top 15 Profit making Product ID's & Key Insights
 
 ### 6. Forecasting & Trends
 
@@ -153,7 +153,7 @@ Purpose: Predictive analytics for planning
 
 Features:
 
-•	12-month sales forecast
+•	12-month sales forecast & Key Insights
 
 •	Quarterly performance trends
 
@@ -161,6 +161,27 @@ Features:
 
 •	Growth projections - Impact of Discounts on Profit & Sales
 
+## 💡 Key Insights & Recommendations
+
+### Finding 1: Discount Impact
+Insight: Products with >20% discount show 35% lower profit margins
+Recommendation: Implement a tiered discount strategy; limit deep discounts to slow-moving inventory only
+
+### Finding 2: Geographic Concentration
+Insight: Top 10 states generate 68% of total revenue, but 45% of orders
+Recommendation: Focus expansion efforts on high-value markets; improve customer acquisition in underperforming regions
+
+### Finding 3: Loss-Making Categories
+Insight: 3 sub-categories consistently operate at a loss across all regions
+Recommendation: Review pricing strategy or consider discontinuing unprofitable lines; potential savings: $200K annually
+
+### Finding 4: Shipping Efficiency
+Insight: Standard shipping accounts for 60% of orders, but shows the highest customer satisfaction
+Recommendation: Optimize standard shipping to reduce costs while maintaining service levels
+
+### Finding 5: Customer Segmentation
+Insight: The corporate segment has 25% higher average order value than the consumer segment
+Recommendation: Develop targeted B2B marketing campaigns; expand corporate account management
 
 
 

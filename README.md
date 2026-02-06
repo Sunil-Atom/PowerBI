@@ -73,7 +73,7 @@ ________________________________________
 
 ## 📊 Dashboard Portfolio
 
-1. Executive Overview
+### 1. Executive Overview
 
 Purpose: High-level KPIs for leadership decision-making
 
@@ -89,11 +89,12 @@ Key Metrics:
 
 •	Sales Performance & Profit Margin Trend
 
-2. Product Performance
+### 2. Product Performance
 
 Purpose: Identify top/bottom performing products and categories
 
 Features:
+
 •	Sales by category, sub-category & Key Insights
 
 •	Top 10 Profitable Products

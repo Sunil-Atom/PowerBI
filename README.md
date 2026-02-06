@@ -193,6 +193,25 @@ Recommendation: Develop targeted B2B marketing campaigns; expand corporate accou
 ### Executive Dashboard
 <img width="1322" height="752" alt="image" src="https://github.com/user-attachments/assets/1b3b8756-900a-437a-8aa2-6c004a00bb88" />
 
+### Product Performance
+<img width="1328" height="745" alt="image" src="https://github.com/user-attachments/assets/1f10a1c7-7626-4e66-8c24-23ddab92e249" />
+
+### Geographic Analysis
+<img width="1327" height="743" alt="image" src="https://github.com/user-attachments/assets/5c3c8a3c-d146-4db8-ac7d-6add4412eb97" />
+
+### Customer & Shipping Insights
+<img width="1323" height="745" alt="image" src="https://github.com/user-attachments/assets/2658f120-e580-4595-b6e5-298d311e4341" />
+
+### Profitability Analysis
+<img width="1327" height="743" alt="image" src="https://github.com/user-attachments/assets/51b070a6-00ce-4b41-b534-0a959eaa163c" />
+
+### Forecasting & Trends
+<img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/699aa997-a70b-4e3e-8fc3-94ca670bc9c4" />
+
+
+
+
+
 
 
 

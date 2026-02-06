@@ -1,2 +1,2 @@
-# SuperStore Dahboard
+# Superstore Dashboard
 

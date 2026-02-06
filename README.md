@@ -165,22 +165,27 @@ Features:
 
 ### Finding 1: Discount Impact
 Insight: Products with >20% discount show 35% lower profit margins
+
 Recommendation: Implement a tiered discount strategy; limit deep discounts to slow-moving inventory only
 
 ### Finding 2: Geographic Concentration
 Insight: Top 10 states generate 68% of total revenue, but 45% of orders
+
 Recommendation: Focus expansion efforts on high-value markets; improve customer acquisition in underperforming regions
 
 ### Finding 3: Loss-Making Categories
 Insight: 3 sub-categories consistently operate at a loss across all regions
+
 Recommendation: Review pricing strategy or consider discontinuing unprofitable lines; potential savings: $200K annually
 
 ### Finding 4: Shipping Efficiency
 Insight: Standard shipping accounts for 60% of orders, but shows the highest customer satisfaction
+
 Recommendation: Optimize standard shipping to reduce costs while maintaining service levels
 
 ### Finding 5: Customer Segmentation
 Insight: The corporate segment has 25% higher average order value than the consumer segment
+
 Recommendation: Develop targeted B2B marketing campaigns; expand corporate account management
 
 

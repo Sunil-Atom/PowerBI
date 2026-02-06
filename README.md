@@ -188,9 +188,9 @@ Insight: The corporate segment has 25% higher average order value than the consu
 
 Recommendation: Develop targeted B2B marketing campaigns; expand corporate account management
 
-## 📸 Screenshots
+## 📸 Dashboards
 
-### Executive Dashboard
+### Executive Overview
 <img width="1322" height="752" alt="image" src="https://github.com/user-attachments/assets/1b3b8756-900a-437a-8aa2-6c004a00bb88" />
 
 ### Product Performance
@@ -208,11 +208,9 @@ Recommendation: Develop targeted B2B marketing campaigns; expand corporate accou
 ### Forecasting & Trends
 <img width="1322" height="747" alt="image" src="https://github.com/user-attachments/assets/699aa997-a70b-4e3e-8fc3-94ca670bc9c4" />
 
+## Download Files
 
-
-
-
-
+[Superstore Dashboard.zip](https://github.com/user-attachments/files/25128445/Superstore.Dashboard.zip)
 
 
 

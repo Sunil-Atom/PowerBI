@@ -1,6 +1,6 @@
 # Superstore Dashboard
 
-## Project Overview
+## 🎯Project Overview
 
 A comprehensive Business Intelligence solution built using Microsoft Power BI to analyze sales performance, profitability trends, and customer behavior across multiple dimensions. This project demonstrates end-to-end BI capabilities from data modeling to advanced analytics and interactive dashboard design.
 
@@ -139,13 +139,28 @@ Purpose: Identify profit drivers and detractors
 
 Analysis:
 
-•	Monthly profit comparisons
+•	Overall Profit comparison by month and year
 
-•	Key influencers for profit changes
+•	Most Loss-Making Categories and Sub-Categories
 
 •	Discount impact on profitability
 
-•	Category-wise profit margins
+•	Top 15 Profit making Product ID's and Key Insights
+
+### 6. Forecasting & Trends
+
+Purpose: Predictive analytics for planning
+
+Features:
+
+•	12-month sales forecast
+
+•	Quarterly performance trends
+
+•	Seasonal pattern analysis
+
+•	Growth projections - Impact of Discounts on Profit & Sales
+
 
 
 

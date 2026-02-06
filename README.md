@@ -213,5 +213,21 @@ Recommendation: Develop targeted B2B marketing campaigns; expand corporate accou
 [Superstore Dashboard.zip](https://github.com/user-attachments/files/25128445/Superstore.Dashboard.zip)
 
 
+## 🔗 Additional Resources
+
+•	LinkedIn: www.linkedin.com/in/sunill
+
+•	Portfolio: https://github.com/Sunil-Atom/PowerBI
+
+•	Mail ID: sunil9945422@gmail.com
+
+## 📜 License
+
+This project is for portfolio demonstration purposes. Sample data used is either publicly available or simulated for analysis.
+
+
+
+
+
 
 

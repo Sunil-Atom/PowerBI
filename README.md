@@ -24,9 +24,10 @@ This analytics solution addresses key business questions:
 
 •	Operational Efficiency: How do shipping methods impact delivery times and costs?
 
+
 🛠️ **Technical Skills Demonstrated**
 
-Data Preparation & Modeling
+**Data Preparation & Modeling**
 
 •	Power Query: Data cleaning, transformation, merging multiple sources
 
@@ -37,7 +38,7 @@ Data Preparation & Modeling
 •	Calculated Columns & Tables: Date dimension table, custom groupings
 
 
-DAX (Data Analysis Expressions)
+**DAX (Data Analysis Expressions)**
 
 •	Time Intelligence: YTD, MTD, YoY growth, period comparisons
 
@@ -48,7 +49,7 @@ DAX (Data Analysis Expressions)
 •	Statistical Functions: Forecasting, trend analysis
 
 
-Visualization & Design
+**Visualization & Design**
 
 •	Interactive Dashboards: 6 themed dashboards with consistent design
 
@@ -57,3 +58,15 @@ Visualization & Design
 •	Drill-through Pages: Detailed analysis on demand
 
 •	Bookmarks: Saved views for different scenarios
+
+**Advanced Features**
+
+•	Forecasting: Sales prediction using built-in analytics
+
+•	What-If Parameters: Scenario analysis for discount impact
+
+•	Tooltips: Custom tooltip pages for additional context
+
+•	Performance Optimization: DAX query optimization, reduced visual count
+________________________________________
+

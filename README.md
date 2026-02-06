@@ -1,2 +1,2 @@
-# PowerBI
-SuperStore
+# SuperStore Dahboard
+

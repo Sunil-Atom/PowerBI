@@ -24,7 +24,8 @@ This analytics solution addresses key business questions:
 
 •	Operational Efficiency: How do shipping methods impact delivery times and costs?
 
-🛠️ Technical Skills Demonstrated
+🛠️ **Technical Skills Demonstrated**
+
 Data Preparation & Modeling
 
 •	Power Query: Data cleaning, transformation, merging multiple sources
@@ -35,6 +36,7 @@ Data Preparation & Modeling
 
 •	Calculated Columns & Tables: Date dimension table, custom groupings
 
+
 DAX (Data Analysis Expressions)
 
 •	Time Intelligence: YTD, MTD, YoY growth, period comparisons
@@ -44,6 +46,7 @@ DAX (Data Analysis Expressions)
 •	Conditional Logic: SWITCH, IF statements for dynamic measures
 
 •	Statistical Functions: Forecasting, trend analysis
+
 
 Visualization & Design
 

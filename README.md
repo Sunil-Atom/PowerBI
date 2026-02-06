@@ -25,20 +25,29 @@ This analytics solution addresses key business questions:
 Data Preparation & Modeling
 
 •	Power Query: Data cleaning, transformation, merging multiple sources
+
 •	Data Modeling: Star schema design with fact and dimension tables
+
 •	Relationships: Established proper cardinality and cross-filter direction
+
 •	Calculated Columns & Tables: Date dimension table, custom groupings
 
 DAX (Data Analysis Expressions)
+
 •	Time Intelligence: YTD, MTD, YoY growth, period comparisons
-•	Advanced Calculations: Moving averages, ranking, cumulative totals
+
+•	Advanced Calculations: Weighted averages, ranking, cumulative totals
+
 •	Conditional Logic: SWITCH, IF statements for dynamic measures
+
 •	Statistical Functions: Forecasting, trend analysis
-•	Variables: Optimized DAX performance using VAR
 
 Visualization & Design
+
 •	Interactive Dashboards: 6 themed dashboards with consistent design
-•	Custom Visuals: Word cloud, key influencers, decomposition tree
+
 •	Cross-filtering: Synchronized filtering across visuals
+
 •	Drill-through Pages: Detailed analysis on demand
+
 •	Bookmarks: Saved views for different scenarios

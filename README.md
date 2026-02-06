@@ -71,3 +71,38 @@ This analytics solution addresses key business questions:
 •	Performance Optimization: DAX query optimization, reduced visual count
 ________________________________________
 
+## 📊 Dashboard Portfolio
+
+1. Executive Overview
+
+Purpose: High-level KPIs for leadership decision-making
+
+Key Metrics:
+
+•	Total Sales, Profit & Orders & Key Insights
+
+•	Monthly and yearly trends
+
+•	Top 10 State of Profit by Region and Category
+
+•	Top 5 Profit making Sub-Categories
+
+•	Sales Performance & Profit Margin Trend
+
+2. Product Performance
+
+Purpose: Identify top/bottom performing products and categories
+
+Features:
+•	Sales by category, sub-category & Key Insights
+
+•	Top 10 Profitable Products
+
+•	Top 10 Loss-making sub-categories
+
+•	Profit and Sales by category
+
+
+
+
+

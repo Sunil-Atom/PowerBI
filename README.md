@@ -188,6 +188,12 @@ Insight: The corporate segment has 25% higher average order value than the consu
 
 Recommendation: Develop targeted B2B marketing campaigns; expand corporate account management
 
+## 📸 Screenshots
+
+### Executive Dashboard
+<img width="1322" height="752" alt="image" src="https://github.com/user-attachments/assets/1b3b8756-900a-437a-8aa2-6c004a00bb88" />
+
+
 
 
 

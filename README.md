@@ -25,6 +25,7 @@ This analytics solution addresses key business questions:
 •	Operational Efficiency: How do shipping methods impact delivery times and costs?
 
 
+
 🛠️ **Technical Skills Demonstrated**
 
 **Data Preparation & Modeling**

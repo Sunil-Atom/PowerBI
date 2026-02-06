@@ -69,7 +69,7 @@ This analytics solution addresses key business questions:
 •	Tooltips: Custom tooltip pages for additional context
 
 •	Performance Optimization: DAX query optimization, reduced visual count
-________________________________________
+
 
 ## 📊 Dashboard Portfolio
 
@@ -102,6 +102,50 @@ Features:
 •	Top 10 Loss-making sub-categories
 
 •	Profit and Sales by category
+
+### 3. Geographic Analysis
+
+Purpose: Regional sales and profitability insights
+
+Includes:
+
+•	Interactive map with state-level data
+
+•	Top 25 states and Top 10  cities
+
+•	Regional profit breakdown
+
+•	High-volume city analysis (50+ orders)
+
+•	Segment of profitability by region 
+
+### 4. Customer & Shipping Insights
+
+Purpose: Understand customer behavior and logistics
+
+Components:
+
+•	Sales by customer segment
+
+•	Shipping mode analysis
+
+•	Top 20 customers by profit
+
+•	Delivery time distribution
+
+### 5. Profitability Analysis
+
+Purpose: Identify profit drivers and detractors
+
+Analysis:
+
+•	Monthly profit comparisons
+
+•	Key influencers for profit changes
+
+•	Discount impact on profitability
+
+•	Category-wise profit margins
 
 
 

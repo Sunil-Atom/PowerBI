@@ -7,7 +7,7 @@ A comprehensive Business Intelligence solution built using Microsoft Power BI to
 Project Duration: Jan 2026 - Present
 
 Certification: Microsoft Certified: Power BI Data Analyst Associate (PL-300)
-________________________________________
+
 ## 🚀Business Objectives
 
 This analytics solution addresses key business questions:

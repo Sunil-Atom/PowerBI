@@ -1,6 +1,6 @@
 # Superstore Dashboard
-🎯 **Project Overview**
-
+**🎯Project Overview
+**
 A comprehensive Business Intelligence solution built using Microsoft Power BI to analyze sales performance, profitability trends, and customer behavior across multiple dimensions. This project demonstrates end-to-end BI capabilities from data modeling to advanced analytics and interactive dashboard design.
 
 Project Duration: Jan 2026 - Present
@@ -8,6 +8,7 @@ Project Duration: Jan 2026 - Present
 Certification: Microsoft Certified: Power BI Data Analyst Associate (PL-300)
 ________________________________________
 **🚀 Business Objectives**
+
 This analytics solution addresses key business questions:
 
 •	Sales Performance: How are sales trending monthly/yearly? Which products drive revenue?
